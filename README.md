@@ -1,4 +1,4 @@
-# Evaluación Final — Análisis de Base SENDA
+# Evaluación Final_Análisis de Base SENDA
 
 **Autora:** Rocío Vejar Torres  
 **Fecha:** 26 de noviembre de 2025  
@@ -12,8 +12,8 @@ Este repositorio incluye:
 
 ## Cómo reproducir el análisis
 
-1. Coloca **todos los archivos en la misma carpeta**.  
-2. Abre `evaluacion1_BASEsenda_rocio.qmd` en **RStudio** o **Quarto**.  
-3. Asegúrate de tener R ≥ 4.3 y los paquetes necesarios:
+1. Colocar **todos los archivos en la misma carpeta**.  
+2. Abrir `evaluacion1_BASEsenda_rocio.qmd` en **RStudio** o **Quarto**.  
+3. Asegurarse de tener R ≥ 4.3 y los paquetes necesarios:
    ```r
    install.packages(c("dplyr", "ggplot2", "skimr", "readr", "haven", "tibble", "janitor", "gtsummary"))
